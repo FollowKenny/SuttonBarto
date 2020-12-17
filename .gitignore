@@ -7,3 +7,4 @@ Sutton&Barto.pdf
 *.gz
 *.fdb_latexmk
 *.aux
+*vscode*
