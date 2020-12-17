@@ -1,0 +1,9 @@
+# Source
+Sutton&Barto.pdf
+
+# Latex
+*.fls
+*.log
+*.gz
+*.fdb_latexmk
+*.aux
