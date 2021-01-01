@@ -8,3 +8,6 @@ Sutton&Barto.pdf
 *.fdb_latexmk
 *.aux
 *vscode*
+
+# python
+*pycache*
